@@ -1,0 +1,6 @@
+.Python
+bin
+lib
+include
+virtualenv.pyc
+docs/_build
